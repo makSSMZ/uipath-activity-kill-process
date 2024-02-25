@@ -1,0 +1,6 @@
+C:\Users\m.chefranov\source\repos\KillProcessByCurrentUser\KillProcessByCurrentUser\bin\Debug\KillProcessByCurrentUser.dll
+C:\Users\m.chefranov\source\repos\KillProcessByCurrentUser\KillProcessByCurrentUser\bin\Debug\KillProcessByCurrentUser.pdb
+C:\Users\m.chefranov\source\repos\KillProcessByCurrentUser\KillProcessByCurrentUser\obj\Debug\Processes.csprojAssemblyReference.cache
+C:\Users\m.chefranov\source\repos\KillProcessByCurrentUser\KillProcessByCurrentUser\obj\Debug\Processes.csproj.CoreCompileInputs.cache
+C:\Users\m.chefranov\source\repos\KillProcessByCurrentUser\KillProcessByCurrentUser\obj\Debug\KillProcessByCurrentUser.dll
+C:\Users\m.chefranov\source\repos\KillProcessByCurrentUser\KillProcessByCurrentUser\obj\Debug\KillProcessByCurrentUser.pdb
